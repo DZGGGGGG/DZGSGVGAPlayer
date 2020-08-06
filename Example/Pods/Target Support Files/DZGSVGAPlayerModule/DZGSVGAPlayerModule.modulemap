@@ -1,0 +1,6 @@
+framework module DZGSVGAPlayerModule {
+  umbrella header "DZGSVGAPlayerModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

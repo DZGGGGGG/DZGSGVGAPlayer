@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DZGSVGAPlayerModule
 
 [![CI Status](https://img.shields.io/travis/15913420136@163.com/DZGSVGAPlayerModule.svg?style=flat)](https://travis-ci.org/15913420136@163.com/DZGSVGAPlayerModule)
@@ -27,3 +28,6 @@ pod 'DZGSVGAPlayerModule'
 ## License
 
 DZGSVGAPlayerModule is available under the MIT license. See the LICENSE file for more info.
+=======
+# DZGSGVGAPlayer
+>>>>>>> e384b44424381013190491bc6d2c53337ffa5cbe

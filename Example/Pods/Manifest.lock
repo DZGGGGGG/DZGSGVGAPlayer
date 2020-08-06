@@ -1,0 +1,27 @@
+PODS:
+  - DZGSVGAPlayerModule (1.0.1):
+    - Protobuf (~> 3.4)
+    - SSZipArchive (~> 2.1.4)
+  - Protobuf (3.12.0)
+  - SSZipArchive (2.1.5)
+
+DEPENDENCIES:
+  - DZGSVGAPlayerModule (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Protobuf
+    - SSZipArchive
+
+EXTERNAL SOURCES:
+  DZGSVGAPlayerModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DZGSVGAPlayerModule: 4799b7484acc4475567e52e9b4b4c2c1190dd273
+  Protobuf: 2793fcd0622a00b546c60e7cbbcc493e043e9bb9
+  SSZipArchive: cefe1364104a0231268a5deb8495bdf2861f52f0
+
+PODFILE CHECKSUM: 1cc21c8857c7fabcffef97b5350348d3837fa0d5
+
+COCOAPODS: 1.9.1
